@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Banner.png" alt="HTML5 Icon" style="width:350px;height:150px;">
+<img src="Banner.png" alt="HTML5 Icon" style="width:650px;height:250px;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Raiyan Jiyon.</h1>
