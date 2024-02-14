@@ -1,7 +1,3 @@
-<div align="center">
-<img src="Banner.png" alt="HTML5 Icon" style="width:650px;height:250px;">
-</div>
-
 <h1 align="center">Hi 👋, I'm Raiyan Jiyon.</h1>
 <h3 align="center">A passionate Full stack Python developer from Bangladesh.</h3>
 <div align="center">
@@ -10,15 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyanjiyon&label=Profile%20views&color=0e75b6&style=flat" alt="raiyanjiyon" /> </p>
 
-- 🔭 I’m currently working on [Online Store Database](https://github.com/RaiyanJiyon/Online-Store-Database)
 
 - 🌱 I’m currently learning **core concept of Python, Web tools like HTML5, CSS3, JavaScript, Bootstrap, React JS, Django, and Database like - MySQL, MongoDB.**
 
-- 👯 I’m looking to collaborate on [Algorithm visualization Web App.](https://github.com/RaiyanJiyon/Algorithm-visualization-Web-App)
-
-- 🤝 I’m looking for help with [Algorithm visualization Web App.](https://github.com/RaiyanJiyon/Algorithm-visualization-Web-App)
-
-- 👨‍💻 All of my projects are available at [https://github.com/RaiyanJiyon?tab=repositories](https://github.com/RaiyanJiyon?tab=repositories)
+- 👨‍💻 All of my repository are available at [https://github.com/RaiyanJiyon?tab=repositories](https://github.com/RaiyanJiyon?tab=repositories)
 
 - 📝 I regularly read articles on [https://www.w3schools.com/](https://www.w3schools.com/)
 
