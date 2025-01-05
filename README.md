@@ -7,7 +7,7 @@
 Hello!! I am Md. Raiyan-Ur-Rahman Jiyon. I am a MERN Stack Developer with expertise in HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, and MongoDB. I am passionate about building responsive and user-friendly web applications. I enjoy solving problems, writing clean code, and learning new technologies to enhance my skills every day.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [https://raiyan-portfolio.netlify.app](https://raiyan-portfolio.netlify.app)
+* 🖥️  See my portfolio at [https://raiyan-portfolio.netlify.app](https://glittery-cactus-87ef2c.netlify.app/)
 * ✉️  You can contact me at [raiyan.jiyon@gmail.com](mailto:raiyan.jiyon@gmail.com)
 * 🧠  I'm learning NodeJs, MaterialUI, and advanced backend development.
 
@@ -43,6 +43,8 @@ Hello!! I am Md. Raiyan-Ur-Rahman Jiyon. I am a MERN Stack Developer with expert
 <b>My GitHub Stats</b>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raiyanjiyon&show_icons=true&locale=en&layout=compact" alt="raiyanjiyon" /></p>
+
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raiyanjiyon&show_icons=true&locale=en" alt="raiyanjiyon" /></p>
 
