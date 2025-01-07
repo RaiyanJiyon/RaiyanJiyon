@@ -44,8 +44,4 @@ Hello!! I am Md. Raiyan-Ur-Rahman Jiyon. I am a MERN Stack Developer with expert
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raiyanjiyon&show_icons=true&locale=en&layout=compact" alt="raiyanjiyon" /></p>
 
-<br/>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raiyanjiyon&show_icons=true&locale=en" alt="raiyanjiyon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiyanjiyon&" alt="raiyanjiyon" /></p>
