@@ -8,7 +8,7 @@ Hello!! I am Md. Raiyan-Ur-Rahman Jiyon. I am a MERN Stack Developer with expert
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [https://raiyan-portfolio.netlify.app](https://glittery-cactus-87ef2c.netlify.app/)
-* ✉️  You can contact me at [raiyan.jiyon@gmail.com](mailto:raiyan.jiyon@gmail.com)
+* ✉️  You can contact me at [raiyanjiyon814@gmail.com](mailto:raiyan.jiyon@gmail.com)
 * 🧠  I'm learning NodeJs, MaterialUI, and advanced backend development.
 
 ### Skills
