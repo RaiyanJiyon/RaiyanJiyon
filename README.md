@@ -37,11 +37,10 @@ const raiyan = {
 ```
 
 - 🌍 **Based in:** Dhaka, Bangladesh
-- 🖥️ **Portfolio:** [raiyanjiyonportfolio.netlify.app](https://raiyanjiyonportfolio.netlify.app/)
-- ✉️ **Email:** [raiyanjiyon814@gmail.com](mailto:raiyanjiyon814@gmail.com)
+- 🖥️ **Portfolio:** [raiyanjiyon.com](https://raiyanjiyon.me/)
+- ✉️ **Email:** [raiyanjiyonn@gmail.com](mailto:raiyanjiyonn@gmail.com)
 - 🧠 **Currently Learning:** PostgreSQL, Redux, and Advanced Backend Development
 - 💬 **Ask me about:** React, Node.js, MongoDB, JavaScript, or anything tech-related!
-- ⚡ **Fun fact:** I love turning coffee into code! ☕️➡️💻
 
 ## 🛠️ Tech Stack & Skills
 
@@ -72,7 +71,7 @@ const raiyan = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://x.com/raiyanjiyon0" target="_blank">
+  <a href="https://x.com/raiyanjiyonn" target="_blank">
     <img src="https://img.shields.io/badge/TWITTER-00FFFF?style=for-the-badge&logo=twitter&logoColor=black&labelColor=1a1a2e" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/raiyanjiyon/" target="_blank">
@@ -84,10 +83,10 @@ const raiyan = {
   <a href="https://www.facebook.com/raiyan.ur.rahman.jiyon/" target="_blank">
     <img src="https://img.shields.io/badge/FACEBOOK-FF00FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e" alt="Facebook" />
   </a>
-  <a href="mailto:raiyanjiyon814@gmail.com" target="_blank">
+  <a href="mailto:raiyanjiyonn@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-00FFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1a1a2e" alt="Gmail" />
   </a>
-  <a href="https://raiyanjiyonportfolio.netlify.app/" target="_blank">
+  <a href="https://raiyanjiyon.me/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-FF00FF?style=for-the-badge&logo=todoist&logoColor=white&labelColor=1a1a2e" alt="Portfolio" />
   </a>
 </div>
