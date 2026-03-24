@@ -26,7 +26,7 @@
 
 ```javascript
 const raiyan = {
-    name: "Md. Raiyan-Ur-Rahman Jiyon",
+    name: "MD Raiyan Ur Rahman Jiyon",
     location: "Dhaka, Bangladesh 🇧🇩",
     role: "MERN Stack Developer",
     passion: ["Web Development", "Problem Solving", "Clean Code"],
@@ -38,7 +38,7 @@ const raiyan = {
 
 - 🌍 **Based in:** Dhaka, Bangladesh
 - 🖥️ **Portfolio:** [raiyanjiyon.com](https://raiyanjiyon.me/)
-- ✉️ **Email:** [raiyanjiyonn@gmail.com](mailto:raiyanjiyonn@gmail.com)
+- ✉️ **Email:** [raiyanjiyon@gmail.com](mailto:raiyanjiyon@gmail.com)
 - 🧠 **Currently Learning:** PostgreSQL, Redux, and Advanced Backend Development
 - 💬 **Ask me about:** React, Node.js, MongoDB, JavaScript, or anything tech-related!
 
