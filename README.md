@@ -72,25 +72,24 @@ const raiyan = {
 
 <div align="center">
   <a href="https://x.com/raiyanjiyonn" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-00FFFF?style=for-the-badge&logo=twitter&logoColor=black&labelColor=1a1a2e" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/raiyanjiyon/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/32582433/raiyan-jiyon" target="_blank">
-    <img src="https://img.shields.io/badge/STACK_OVERFLOW-00FFFF?style=for-the-badge&logo=stack-overflow&logoColor=black&labelColor=1a1a2e" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="https://www.facebook.com/raiyan.ur.rahman.jiyon/" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-FF00FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:raiyanjiyonn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-00FFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1a1a2e" alt="Gmail" />
+  <a href="mailto:raiyanjiyon@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://raiyanjiyon.me/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF00FF?style=for-the-badge&logo=todoist&logoColor=white&labelColor=1a1a2e" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
