@@ -28,10 +28,10 @@
 const raiyan = {
     name: "MD Raiyan Ur Rahman Jiyon",
     location: "Dhaka, Bangladesh 🇧🇩",
-    role: "MERN Stack Developer",
+    role: "Automation Software Engineer",
     passion: ["Web Development", "Problem Solving", "Clean Code"],
-    currentFocus: "Building scalable web applications",
-    learning: ["PostgreSQL", "Redux", "Advanced Backend"],
+    currentFocus: "Building scalable AI driven web applications",
+    learning: ["Docker", "Kubernetes", "Advanced Backend"],
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
