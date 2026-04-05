@@ -133,11 +133,6 @@ const raiyan = {
   <p style="color: #FFFFFF;"><em>This quote has inspired me throughout my software development journey and guides my approach to building quality applications.</em></p>
 </div>
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1a2e&border_color=00FFFF" alt="Spotify Now Playing" width="350" />
-</div>
 
 ---
 
