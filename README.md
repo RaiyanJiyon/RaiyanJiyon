@@ -110,12 +110,6 @@ const raiyan = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raiyanjiyon&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=00FFFF&line=FF00FF&point=FFFFFF" alt="GitHub Activity Graph" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raiyanjiyon&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
