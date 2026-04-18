@@ -26,7 +26,7 @@
 
 ```javascript
 const raiyan = {
-    name: "MD Raiyan Ur Rahman Jiyon",
+    name: "Md. Raiyan Ur Rahman Jiyon",
     location: "Dhaka, Bangladesh 🇧🇩",
     role: "Automation Software Engineer",
     passion: ["Web Development", "Problem Solving", "Clean Code"],
