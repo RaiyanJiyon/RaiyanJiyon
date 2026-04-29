@@ -19,11 +19,6 @@
 
 ## 🚀 About Me
 
-<div align="right">
-  <img alt="MERN Stack Developer" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</div>
-
-
 ```javascript
 const raiyan = {
     name: "Md. Raiyan Ur Rahman Jiyon",
