@@ -1,69 +1,45 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Raiyan%20Jiyon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=Raiyan%20Jiyon&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I'm+Raiyan!;🚀+MERN+Stack+Developer;💻+Full+Stack+Engineer;🌟+Problem+Solver;🔥+Code+Enthusiast;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=00FFFF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Node.js+%7C+React+%7C+Next.js+%7C+TypeScript;Building+AI-Integrated+Web+Applications;&font=Fira%20Code&center=true&width=420&height=45&duration=4000&pause=1200&color=2F81F7">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=raiyanjiyon&style=for-the-badge&color=00FFFF&labelColor=1a1a2e" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/raiyanjiyon?logo=github&style=for-the-badge&color=FF00FF&labelColor=1a1a2e" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=raiyanjiyon&style=flat-square&color=2F81F7&labelColor=1a1a2e" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/raiyanjiyon?logo=github&style=flat-square&color=2F81F7&labelColor=1a1a2e" alt="GitHub followers" />
 </div>
 
-<br/>
+## About Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+Full-Stack Developer specializing in **Node.js, React, Next.js, and TypeScript** — building production-ready, AI-integrated web applications with a focus on clean architecture and testable code.
 
-## 🚀 About Me
-
-```javascript
-const raiyan = {
-    name: "Md. Raiyan Ur Rahman Jiyon",
-    location: "Dhaka, Bangladesh 🇧🇩",
-    role: "Automation Software Engineer",
-    passion: ["Web Development", "Problem Solving", "Clean Code"],
-    currentFocus: "Building scalable AI driven web applications",
-    learning: ["Docker", "Kubernetes", "Advanced Backend"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
-
-- 🌍 **Based in:** Dhaka, Bangladesh
-- 🖥️ **Portfolio:** [raiyanjiyon.com](https://raiyanjiyon.me/)
+- 🌍 **Based in:** Dhaka, Bangladesh (open to remote)
+- 🖥️ **Portfolio:** [raiyanjiyon.me](https://raiyanjiyon.me/)
 - ✉️ **Email:** [raiyanjiyon@gmail.com](mailto:raiyanjiyon@gmail.com)
-- 🧠 **Currently Learning:** PostgreSQL, Redux, and Advanced Backend Development
-- 💬 **Ask me about:** React, Node.js, MongoDB, JavaScript, or anything tech-related!
+- 🔬 **Also exploring:** independent research in federated learning, in preparation for graduate study
+- 🧠 **Currently learning:** Kubernetes, GraphQL, Terraform
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+**Frontend**
 
-### 🎨 Frontend Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
 
-### ⚙️ Backend Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,postgresql,firebase,redis&theme=dark" />
-</div>
+**Backend**
 
-### 🔧 Tools & Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,aws,vercel&theme=dark" />
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,firebase&theme=dark" />
 
-### 📚 Currently Learning
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=redux,graphql,kubernetes,terraform&theme=dark" />
-</div>
+**DevOps & Tools**
 
-## 🌐 Connect With Me
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,gcp,postman,vscode,figma&theme=dark" />
+
+**Also familiar with**
+
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+
+## Connect
 
 <div align="center">
   <a href="https://x.com/raiyanjiyonn" target="_blank">
@@ -75,9 +51,6 @@ const raiyan = {
   <a href="https://stackoverflow.com/users/32582433/raiyan-jiyon" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-%23F48023.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://www.facebook.com/raiyan.ur.rahman.jiyon/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
   <a href="mailto:raiyanjiyon@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -86,59 +59,23 @@ const raiyan = {
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raiyanjiyon&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanjiyon&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00FFFF&text_color=FFFFFF"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=raiyanjiyon&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanjiyon&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiyanjiyon&theme=radical&hide_border=true&background=1a1a2e&stroke=00FFFF&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiyanjiyon&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raiyanjiyon&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=00FFFF&line=FF00FF&point=FFFFFF" alt="GitHub Activity Graph" />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/raiyanjiyon/raiyanjiyon/output/snake.svg" alt="Snake animation" />
-</div>
-
-## 💭 My Development Philosophy
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-  <h3 style="color: #00FFFF;">💡 "First make it work, then make it right, then make it fast."</h3>
-  <p style="color: #FF00FF;"><strong>— Kent Beck</strong></p>
-  <p style="color: #FFFFFF;"><em>This quote has inspired me throughout my software development journey and guides my approach to building quality applications.</em></p>
-</div>
-
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
+  <sub>"First make it work, then make it right, then make it fast." — Kent Beck</sub>
 </div>
 
 <div align="center">
-  <h3>💖 Thanks for visiting my profile! 💖</h3>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Happy+Coding!+🚀;Keep+Learning!+📚;Stay+Awesome!+⭐;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=00FFFF">
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=raiyanjiyon&style=flat-square&color=00FFFF" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Made%20with-❤️-FF00FF" alt="Made with love" />
-  <img src="https://img.shields.io/badge/Powered%20by-☕-00FFFF" alt="Powered by coffee" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=90&section=footer"/>
 </div>
